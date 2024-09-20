@@ -1,5 +1,7 @@
-`**# AUTOMATED-DATA-EXTRACTION-FROM-CERTIFICATES-
-**`
+<div align="center">
+# AUTOMATED-DATA-EXTRACTION-FROM-CERTIFICATES
+</div>
+
 Our initiative leverages optical character recognition (OCR) to automate the extraction of key data from educational certificates. This streamlines administrative processes, reduces errors, and minimizes manual effort, ultimately enhancing efficiency for educational institutions in the digital age.
 
 1. Educational institutions are undergoing a digital transformation, leveraging advancements in technology to enhance operational efficiency. In this era of rapid technological progress, our research aims to streamline and automate the extraction of vital information from educational certificates using Optical Character Recognition (OCR) technology.
@@ -12,19 +14,46 @@ a. Accuracy - Automated extraction ensures precise retrieval of data, minimizing
 b. Efficiency - By automating the data extraction process, educational institutions can significantly reduce the time and effort required for information collection and verification.
 c. Interoperability - An automated system facilitates seamless integration with existing academic databases and information management platforms.
 
-`**METHODOLOGY:
-**`
-![image](https://github.com/user-attachments/assets/e9e60205-c1f1-4bb8-9a6a-3aa4c70d7bc9)
 
 
-**Technical Details of Our Approach : 
-**
-**Python Language **- _Facilitates seamless integration and efficient coding practices._
-**OCR (Optical Character Recognition)** - _Automates extraction of information from certificates with precision and efficiency._
-**Natural Language Processing (NLP)** - _Refines extracted information for accuracy and coherence._
-**Template Matching Techniques** - _Aids in extracting specific data points from diverse certificate formats._
-**Pytesseract Library** - _Empowers OCR functionality for text recognition and data extraction._
+<div align="center">
+METHODOLOGY
+</div>
 
-`**ARCHITECTURAL DIAGRAM
-**`
+
+
+
+<div align="center">
+
+  
+  ![image](https://github.com/user-attachments/assets/e9e60205-c1f1-4bb8-9a6a-3aa4c70d7bc9)
+</div>
+
+
+
+<div align="center">
+Technical Details of Our Approach 
+
+  
+</div>
+
+
+
+Python Language - Facilitates seamless integration and efficient coding practices.
+
+OCR (Optical Character Recognition) - Automates extraction of information from certificates with precision and efficiency.
+
+Natural Language Processing (NLP) - Refines extracted information for accuracy and coherence.
+
+Template Matching Techniques - Aids in extracting specific data points from diverse certificate formats.
+
+Pytesseract Library - Empowers OCR functionality for text recognition and data extraction.
+
+<div align="center">
+ARCHITECTURAL DIAGRAM
+</div>
+
+<div align="center">
+  
 ![image](https://github.com/user-attachments/assets/117ac717-40f0-4e9a-b08b-48f0dcb060b4)
+</div>
