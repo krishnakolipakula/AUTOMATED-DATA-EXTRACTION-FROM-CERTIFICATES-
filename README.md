@@ -19,25 +19,13 @@ c. Interoperability - An automated system facilitates seamless integration with 
 <div align="center">
 METHODOLOGY
 </div>
-
-
-
-
 <div align="center">
-
   
   ![image](https://github.com/user-attachments/assets/e9e60205-c1f1-4bb8-9a6a-3aa4c70d7bc9)
 </div>
-
-
-
 <div align="center">
 Technical Details of Our Approach 
-
-  
 </div>
-
-
 
 Python Language - Facilitates seamless integration and efficient coding practices.
 
@@ -57,3 +45,19 @@ ARCHITECTURAL DIAGRAM
   
 ![image](https://github.com/user-attachments/assets/117ac717-40f0-4e9a-b08b-48f0dcb060b4)
 </div>
+
+
+DATASET INFORMATION :
+
+This Dataset used in this project consists of Online course learning platform certificates which are from the NPTEL's FDP and Student Certificates, Udemy , Coursera certificates. 
+A total of around 1600 certificates were tested on this model depending on the above certificates.
+NOTE : When we are using this model we should update our Data Refinement code(NLP Code) if we are capturing data from different type of certificates and Templates should also be changed for the classification of the certificates.
+
+As the data Used is Confidential I am not disclosing it here. Please DM for the Dataset personally.
+
+Future Scope : 
+
+1. Advanced Template Matching and OCR Methods : Explore cutting-edge template matching algorithms and deep learning techniques to enhance template detection accuracy and extraction efficiency.
+2. Domain-Specific Knowledge Integration : Integrate domain-specific rules and knowledge to refine data extraction, enabling recognition of diverse certificate formats and layouts.
+3. Continuous System Maintenance : Implement robust mechanisms for ongoing monitoring, maintenance, and updates to ensure the reliability and relevance of the certificate data extraction system over time.
+
